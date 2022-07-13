@@ -1,0 +1,8 @@
+learning:
+    BATCH_SIZE: 1
+    LEARNING_RATE: 0.001
+    DROP_OUT_RATE: 0.5
+    EPOCHS: 100
+system:
+    test: true
+    model_name: 'ann_plus_model.h5'
